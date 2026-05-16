@@ -1,0 +1,6 @@
+playwright
+playwright-stealth
+pandas
+requests
+streamlit
+python-dotenv
