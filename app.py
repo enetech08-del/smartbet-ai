@@ -172,7 +172,7 @@ st.markdown("""
 
 # Sehemu ya kuweka kodi za kila siku (Weka kodi zako hapa kila asubuhi)
 # -------------------------------------------------------------
-KODI_YAKO_YA_ODDS2 = "BWTZ-67894-O2"  # <-- Badilisha hii tu kila siku asubuhi
+KODI_YAKO_YA_ODDS2 = "BW5696EF9F"  # <-- Badilisha hii tu kila siku asubuhi
 KODI_YAKO_YA_ODDS5 = "BWTZ-12345-O5"  # <-- Badilisha hii tu kila siku asubuhi
 # -------------------------------------------------------------
 
