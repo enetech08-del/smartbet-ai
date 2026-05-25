@@ -1,119 +1,119 @@
 [
     {
+        "Muda": "14:00",
+        "Nchi": "England",
+        "Ligi": "League Two",
+        "Mechi": "Notts Co – Salford",
+        "Utabiri": "under 3.5",
+        "Odds": "1.25",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
         "Muda": "18:30",
         "Nchi": "Germany",
         "Ligi": "Bundesliga",
-        "Mechi": "Wolfsburg – Paderborn",
-        "Utabiri": "1x",
-        "Odds": "1.22",
+        "Mechi": "Paderborn – Wolfsburg",
+        "Utabiri": "over 1.5",
+        "Odds": "1.25",
         "Source": "Tipsbet.co.uk"
     },
     {
         "Muda": "19:00",
         "Nchi": "Scotland",
         "Ligi": "Premiership",
-        "Mechi": "P. Thistle – St. Mirren",
-        "Utabiri": "under 3.5",
-        "Odds": "1.25",
+        "Mechi": "St. Mirren – P. Thistle",
+        "Utabiri": "1",
+        "Odds": "1.65",
         "Source": "Tipsbet.co.uk"
     },
     {
-        "Muda": "18:30",
-        "Nchi": "Belgium",
-        "Ligi": "Jupiler Pro League",
-        "Mechi": "KV Mechelen – Club B.",
-        "Utabiri": "2",
-        "Odds": "1.38",
+        "Muda": "15:00",
+        "Nchi": "Austria",
+        "Ligi": "Bundesliga",
+        "Mechi": "SK Rapid – Ried",
+        "Utabiri": "1x",
+        "Odds": "1.26",
         "Source": "Tipsbet.co.uk"
     },
     {
         "Muda": "18:30",
         "Nchi": "Bosnia",
         "Ligi": "Liga BIH",
-        "Mechi": "Zeljeznicar – Siroki B.",
+        "Mechi": "Sarajevo – Zeljeznicar",
         "Utabiri": "1",
-        "Odds": "1.53",
+        "Odds": "1.44",
         "Source": "Tipsbet.co.uk"
     },
     {
-        "Muda": "16:30",
-        "Nchi": "Denmark",
+        "Muda": "17:30",
+        "Nchi": "Bulgaria",
+        "Ligi": "efbet League",
+        "Mechi": "Ludogorets – CSKA Sofia",
+        "Utabiri": "1",
+        "Odds": "1.55",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "19:00",
+        "Nchi": "Ireland",
+        "Ligi": "Premier Division",
+        "Mechi": "Bohemians – S. Rovers",
+        "Utabiri": "under 3.5",
+        "Odds": "1.21",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "15:30",
+        "Nchi": "Lithuania",
+        "Ligi": "TOPLYGA",
+        "Mechi": "FA Siauliai – Riteriai",
+        "Utabiri": "1",
+        "Odds": "1.44",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "15:00",
+        "Nchi": "Norway",
+        "Ligi": "Eliteserien",
+        "Mechi": "Tromso – Aalesund",
+        "Utabiri": "1",
+        "Odds": "1.37",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "17:30",
+        "Nchi": "Romania",
         "Ligi": "Superliga",
-        "Mechi": "Brondby – FC Copenhagen",
-        "Utabiri": "over 1.5",
-        "Odds": "1.25",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "15:00",
-        "Nchi": "Greece",
-        "Ligi": "Super League",
-        "Mechi": "Atromitos – Panserraikos",
-        "Utabiri": "1",
-        "Odds": "1.50",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "18:00",
-        "Nchi": "Iceland",
-        "Ligi": "Besta d.k.",
-        "Mechi": "Akranes – Vestmannaeyjar",
-        "Utabiri": "1x",
-        "Odds": "1.48",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "15:00",
-        "Nchi": "Latvia",
-        "Ligi": "Virsliga",
-        "Mechi": "BFC D. – Ogre U.",
-        "Utabiri": "1",
-        "Odds": "1.56",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "16:45",
-        "Nchi": "Netherlands",
-        "Ligi": "Eredivisie",
-        "Mechi": "Ajax – Groningen",
-        "Utabiri": "1x",
-        "Odds": "1.24",
+        "Mechi": "FC Rapid B. – Univ. Craiova",
+        "Utabiri": "under 3.5",
+        "Odds": "1.26",
         "Source": "Tipsbet.co.uk"
     },
     {
         "Muda": "17:00",
         "Nchi": "Sweden",
         "Ligi": "Allsvenskan",
-        "Mechi": "Elfsborg – Mjallby",
-        "Utabiri": "under 3.5",
+        "Mechi": "Elfsborg – Hacken",
+        "Utabiri": "over 1.5",
         "Odds": "1.24",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "12:30",
-        "Nchi": "Ukraine",
-        "Ligi": "Premier League",
-        "Mechi": "Shakhtar – Kolos K.",
-        "Utabiri": "1",
-        "Odds": "1.32",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "13:00",
-        "Nchi": "Switzerland",
-        "Ligi": "ATP – Geneva",
-        "Mechi": "Popyrin A. – Ruud C.",
-        "Utabiri": "2",
-        "Odds": "1.28",
         "Source": "Tipsbet.co.uk"
     },
     {
         "Muda": "13:00",
         "Nchi": "France",
-        "Ligi": "WTA – Strasbourg",
-        "Mechi": "Cristian J. – Kasatkina D.",
+        "Ligi": "ATP – F. Open",
+        "Mechi": "Buse I. – Rublev A.",
         "Utabiri": "2",
-        "Odds": "1.55",
+        "Odds": "1.34",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "13:00",
+        "Nchi": "France",
+        "Ligi": "WTA – F. Open",
+        "Mechi": "Kasatkina D. – Sonmez Z.",
+        "Utabiri": "1",
+        "Odds": "1.40",
         "Source": "Tipsbet.co.uk"
     }
 ]
