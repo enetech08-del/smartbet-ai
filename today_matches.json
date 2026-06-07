@@ -1,92 +1,83 @@
 [
     {
-        "Muda": "17:00",
-        "Nchi": "Austria",
-        "Ligi": "Reg. East",
-        "Mechi": "Traiskirchen – Neusiedl",
-        "Utabiri": "1",
-        "Odds": "1.51",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "14:00",
-        "Nchi": "Bulgaria",
-        "Ligi": "efbet League",
-        "Mechi": "S. Sofia – Yantra G.",
-        "Utabiri": "1",
-        "Odds": "1.47",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "15:00",
-        "Nchi": "Czech R.",
-        "Ligi": "3.CFL",
-        "Mechi": "Jablonec B – Neratovice",
-        "Utabiri": "1x",
-        "Odds": "1.27",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "17:00",
-        "Nchi": "Germany",
-        "Ligi": "Reg. Play Offs",
-        "Mechi": "L. Leipzig – W. Kickers",
-        "Utabiri": "1x",
-        "Odds": "1.20",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "18:30",
-        "Nchi": "Poland",
-        "Ligi": "Division 1",
-        "Mechi": "W. Krakow – Polonia W.",
-        "Utabiri": "over 1.5",
-        "Odds": "1.20",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "19:00",
-        "Nchi": "Portugal",
-        "Ligi": "Liga Portugal",
-        "Mechi": "Casa Pia – Torreense",
+        "Muda": "17:30",
+        "Nchi": "Argentina",
+        "Ligi": "Primera B",
+        "Mechi": "Laferrere – Dock Sud",
         "Utabiri": "under 3.5",
         "Odds": "1.20",
         "Source": "Tipsbet.co.uk"
     },
     {
-        "Muda": "17:30",
-        "Nchi": "Sweden",
-        "Ligi": "Svenska Cupen",
-        "Mechi": "Assyriska FF – Vasalund",
-        "Utabiri": "2",
-        "Odds": "1.98",
+        "Muda": "19:00",
+        "Nchi": "Brazil",
+        "Ligi": "Serie B",
+        "Mechi": "CRB – Sao Bernardo",
+        "Utabiri": "1x",
+        "Odds": "1.20",
         "Source": "Tipsbet.co.uk"
     },
     {
-        "Muda": "18:45",
+        "Muda": "15:00",
+        "Nchi": "Czech R.",
+        "Ligi": "4.Liga",
+        "Mechi": "T. Prague – Sokolov",
+        "Utabiri": "1",
+        "Odds": "1.69",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "16:00",
+        "Nchi": "Italy",
+        "Ligi": "Serie C",
+        "Mechi": "Ascoli – Brescia",
+        "Utabiri": "1x",
+        "Odds": "1.21",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "15:00",
+        "Nchi": "Norway",
+        "Ligi": "OBOS ligaen",
+        "Mechi": "Ranheim – Strommen",
+        "Utabiri": "1",
+        "Odds": "1.40",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "19:00",
+        "Nchi": "Spain",
+        "Ligi": "LaLiga 2",
+        "Mechi": "Las Palmas – Malaga",
+        "Utabiri": "under 3.5",
+        "Odds": "1.25",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "13:00",
         "Nchi": "World",
         "Ligi": "Friendly I.",
-        "Mechi": "Ireland – Qatar",
+        "Mechi": "Liechtenstein – Cyprus",
+        "Utabiri": "2",
+        "Odds": "1.37",
+        "Source": "Tipsbet.co.uk"
+    },
+    {
+        "Muda": "16:30",
+        "Nchi": "World",
+        "Ligi": "Friendly I.",
+        "Mechi": "Denmark – Ukraine",
         "Utabiri": "1",
-        "Odds": "1.65",
+        "Odds": "1.66",
         "Source": "Tipsbet.co.uk"
     },
     {
         "Muda": "13:00",
         "Nchi": "France",
         "Ligi": "ATP – F. Open",
-        "Mechi": "Cobolli F. – Wu Y.",
-        "Utabiri": "1",
-        "Odds": "1.31",
-        "Source": "Tipsbet.co.uk"
-    },
-    {
-        "Muda": "13:00",
-        "Nchi": "France",
-        "Ligi": "WTA – F. Open",
-        "Mechi": "Vekic D. – Osaka N.",
+        "Mechi": "Cobolli F. – Zverev A.",
         "Utabiri": "2",
-        "Odds": "1.32",
+        "Odds": "1.25",
         "Source": "Tipsbet.co.uk"
     }
 ]
